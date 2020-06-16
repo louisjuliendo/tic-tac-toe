@@ -58,6 +58,7 @@ ul {
   border-radius: 5px;
 }
 
+.highlight,
 .item_selected {
   background-color: gold;
 }
