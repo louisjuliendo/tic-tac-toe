@@ -49,3 +49,15 @@ ul {
 .game-info {
   margin-left: 20px;
 }
+
+.btn {
+  padding: 0.3em;
+  margin: 0.5em;
+  background: white;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.item_selected {
+  background-color: gold;
+}
